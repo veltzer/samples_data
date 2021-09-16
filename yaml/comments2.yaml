@@ -1,0 +1,8 @@
+---
+# comment before name
+name: # comment on line of main
+# comment after name
+  # comment before family
+  family: Smith # very common
+  # comment after family
+  given: Alice # one of the siblings
